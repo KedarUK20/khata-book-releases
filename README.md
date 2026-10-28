@@ -4,7 +4,7 @@ Signed production builds of the Khata Book Android app.
 
 ## Download the app
 
-**[Download the latest APK](https://github.com/KedarUK20/khata-book-releases/releases/latest/download/khata-book.apk)**
+**[Download the latest APK](https://kedaruk20.github.io/khata-book-releases/khata-book.apk)**
 
 1. Open the link on the Android phone.
 2. Allow "Install unknown apps" when prompted.
