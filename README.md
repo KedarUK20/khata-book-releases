@@ -1,4 +1,4 @@
-# Shree Electricals Khata — Android builds
+﻿# Shree Electricals Khata â€” Android builds
 
 Signed production builds of the Khata Book Android app.
 
@@ -19,18 +19,18 @@ Signed production builds of the Khata Book Android app.
 | Version | 1.0.1 (versionCode 2) |
 | APK | `khata-book-1.0.1.apk` (4.27 MB) |
 | AAB | `khata-book-1.0.1.aab` (4.12 MB) |
-| SHA-256 (APK) | `1109CB06437D28F73465D1E19B4D952BA0ABCB24C4C5B9127970B9DFB6F86F38` |
+| SHA-256 (APK) | `6EA7B88C0B7A3C7BED1023706031DEDF0E25157A8751409BB7725A43E0C8C973` |
 
 ## What's new in 1.0.1
 
 - Username and password login protects the khata.
 - In-app password change and sign-out.
-- Demo customers and transactions removed — every install starts with an empty ledger.
+- Demo customers and transactions removed â€” every install starts with an empty ledger.
 - English and Marathi login, dashboard and dialogs.
 
 ## Releases
 
-[All releases](https://github.com/KedarUK20/khata-book-releases/releases) — APK and Play Store AAB for each version.
+[All releases](https://github.com/KedarUK20/khata-book-releases/releases) â€” APK and Play Store AAB for each version.
 
 ## Notes
 
@@ -38,3 +38,4 @@ Signed production builds of the Khata Book Android app.
 - Requires Android 7.0 (API 24) or newer.
 - The phone must be on the same Wi-Fi network as the shop computer running the Khata backend.
 - The backend must be running when the app is used; ledger data is stored on the shop computer.
+
